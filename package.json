@@ -1,6 +1,6 @@
 {
   "name": "docker-mssql-restore",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A CLI tool to restore MSSQL database backups in Docker.",
   "main": "lib/index.mjs",
   "type": "module",
